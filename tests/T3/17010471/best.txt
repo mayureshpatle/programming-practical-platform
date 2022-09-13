@@ -1,0 +1,11 @@
+/*
+ROLL NO.: 44
+REG NO. 17010471
+LANGUAGE: C
+SUBMITTED ON: 22-06-2021 03:27:56 am
+SCORE: 100
+*/
+//-------------------------------------------
+
+if(b) return gcd(b,a%b);
+return a;

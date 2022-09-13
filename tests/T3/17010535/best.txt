@@ -1,0 +1,11 @@
+'''
+ROLL NO.: 57
+REG NO. 17010535
+LANGUAGE: PYTHON3
+SUBMITTED ON: 21-06-2021 04:59:09 am
+SCORE: 15
+'''
+#-------------------------------------------
+
+	if b==0: return a
+	return gcd(a-b,b) if a>=b else gcd(b,a)

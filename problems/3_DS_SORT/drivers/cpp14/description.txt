@@ -1,0 +1,28 @@
+Complete the following Solution class. it should contain function sort(int *, int), in which the first argument is an array, and the second argument is the length of the array.
+
+For more clarity,
+
+```cpp
+class Solution
+{
+public:
+
+//your solution starts here
+
+//this function is mandatory, you can change the names of arguments.
+//but the function signature void sort(int * , int ) should not be altered
+void sort(int * arr, int size)
+{
+	//function definition
+}
+
+/*
+SOME TIPS:
+you can write other functions here if required
+do not take input from stdin or print anything on stdout or stderr
+you cannot include any header file
+*/
+
+//your solution ends here
+};
+```

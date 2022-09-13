@@ -1,0 +1,20 @@
+}
+
+int check(int a, int b)
+{
+	if(b) return check(b,a%b);
+	return a;
+}
+
+int main()
+{
+	int t=100, a, b; 
+	while(t--)
+	{
+		a=rand();
+		b=rand();
+		printf("afm4ezd9PIyJ4sYF:%d\n", gcd(a,b)==check(a,b));
+		fflush(stdout);
+	}
+	return 0;
+}

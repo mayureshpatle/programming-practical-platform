@@ -1,0 +1,6 @@
+import math
+from random import randrange as rr
+
+for _ in range(100):
+	a,b=rr(10**18), rr(10**18)
+	print("afm4ezd9PIyJ4sYF:",int(gcd(a,b)==math.gcd(a,b)),sep="")

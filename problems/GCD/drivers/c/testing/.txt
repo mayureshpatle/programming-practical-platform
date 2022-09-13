@@ -1,0 +1,2 @@
+if(b) return gcd(a,a-b);
+return a

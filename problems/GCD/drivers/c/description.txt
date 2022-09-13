@@ -1,0 +1,10 @@
+You just have to write the contents of function int gcd(int a, int b).
+
+Your function should return the greatest common divisor of **a** and **b**. Do not print anything on the output.
+```c 
+int gcd(int a, int b)
+{ 
+	//you have to write this part only
+	//no need to write the function name & braces  
+} 
+```
